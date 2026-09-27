@@ -1,0 +1,16 @@
+﻿CAPA_ID,Severity,Root_Cause,Department,Closure_Time_Days,Overdue,Recurrence_90d,CAPA_Effective
+CAPA-001,Major,SOP Gap,Warehouse,45,Yes,No,1
+CAPA-002,Critical,Equipment Failure,Production,72,Yes,Yes,0
+CAPA-003,Minor,Human Error,QA,20,No,No,1
+CAPA-004,Major,Training Gap,Packaging,60,Yes,Yes,0
+CAPA-005,Critical,Supplier Issue,Procurement,90,Yes,Yes,0
+CAPA-006,Minor,Documentation,QA,15,No,No,1
+CAPA-007,Major,SOP Gap,Production,55,Yes,No,1
+CAPA-008,Critical,Equipment Failure,Warehouse,80,Yes,Yes,0
+CAPA-009,Minor,Human Error,QA,25,No,No,1
+CAPA-010,Major,Training Gap,Packaging,65,Yes,Yes,0
+CAPA-011,Critical,Supplier Issue,Procurement,100,Yes,Yes,0
+CAPA-012,Minor,Documentation,QA,18,No,No,1
+CAPA-013,Major,SOP Gap,Warehouse,40,No,No,1
+CAPA-014,Critical,Equipment Failure,Production,95,Yes,Yes,0
+CAPA-015,Minor,Human Error,QA,22,No,No,1
